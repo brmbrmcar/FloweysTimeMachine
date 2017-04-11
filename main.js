@@ -492,7 +492,6 @@ function parseIniFromText(text) {
     return ini;
 }
 
-volume == false
 
 function flowey_laugh_once() {
     "use strict";
